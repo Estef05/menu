@@ -1,0 +1,15 @@
+ul {
+  overflow: hidden;
+  background-color: rgba(156, 206, 226, 0.575);
+  text-decoration-color: aqua;
+  text-align: center;
+}
+li a {
+  text-align: center;
+}
+
+#p
+{
+  background-color: aliceblue;
+  text-align: center;
+}
